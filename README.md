@@ -8,7 +8,6 @@
 4. Run `npm run build` to build the bot
 5. Run `npm run start` to start the bot
 
-## S
 ## Credits
 
 - Losely based on [Discord.js](https://discord.js.org)
