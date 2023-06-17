@@ -10,7 +10,7 @@
 
 ## Credits
 
-- Losely based on [Discord.js](https://discord.js.org)
+- Losely based on [Discord.js Guide (Starting here!)](https://discordjs.guide/creating-your-bot/command-handling.html#loading-command-files)
 
 ## License
 
