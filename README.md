@@ -6,7 +6,8 @@
 2. Run `npm install` to install all dependencies
 3. Rename `.env.example` to `.env` and fill out the values with your bot token and MongoDB connection string (note: Please add the name of the database at the end of the connection string ex. `mongodb://localhost:27017/Data`)
 4. Run `npm run build` to build the bot
-5. Run `npm run start` to start the bot
+5. Run `npm run deploy` to deploy the slash commands
+6. Run `npm run start` to start the bot
 
 ## Credits
 
