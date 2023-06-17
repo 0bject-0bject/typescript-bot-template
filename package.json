@@ -10,7 +10,7 @@
         "deploy": "node dist/deploy.js"
     },
     "author": "",
-    "license": "ISC",
+    "license": "MIT",
     "dependencies": {
         "@types/node": "^18.11.18",
         "discord.js": "^14.7.1",
